@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700306665399",
+    "firebase_url": "https://notificacao-81ef7.firebaseio.com",
+    "project_id": "notificacao-81ef7",
+    "storage_bucket": "notificacao-81ef7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700306665399:android:2eb9a66d70e5edfad74232",
+        "android_client_info": {
+          "package_name": "com.unisc.aula12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700306665399-a37bptuutobtbd40lghr85qgm11oesjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unisc.aula12",
+            "certificate_hash": "07495df57ec08e2676ea18d3096545d14b155720"
+          }
+        },
+        {
+          "client_id": "700306665399-sdjj0c59drjpbu2sjkusgn7t1a0aeobc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeJ7yjW15fXOXy476FSPySX96b0bwqV7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700306665399-sdjj0c59drjpbu2sjkusgn7t1a0aeobc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
